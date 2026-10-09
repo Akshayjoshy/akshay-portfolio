@@ -26,6 +26,7 @@ export const jobs: Job[] = [
       "Built responsive, reusable UI components with React and Tailwind CSS.",
       "Implemented Remix loaders and actions for data fetching, form processing, and API integration.",
       "Worked on routing, validation, data handling, and server-side rendering.",
+      "Contributed to functionality covering materiality assessments, sustainability data, emissions-related calculations, value-chain assessments, governance/social evaluations, and ESG reporting.",
       "Collaborated with a Dubai-based team on requirements, development, testing, and delivery.",
       "Worked in an Agile environment.",
     ],
