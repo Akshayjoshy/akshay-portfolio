@@ -26,6 +26,7 @@ export const skills: SkillGroup[] = [
       s("Spring Boot", "Backend REST API development"),
       s("Hibernate", "ORM"),
       s("REST APIs", "API design and integration"),
+      s("Spring Security", "Security framework"),
     ],
   },
   {
@@ -49,10 +50,8 @@ export const skills: SkillGroup[] = [
       s("GitHub", "Version control"),
       s("Bitbucket", "Version control"),
       s("VS Code", "Editor"),
-      s("STS", "Spring tooling"),
       s("Postman", "API testing"),
       s("Jira", "Issue tracking"),
-      s("Nodemailer", "Email sending"),
       s("Agile", "Team workflow"),
     ],
   },
